@@ -1,1 +1,3 @@
 # bookSearchEngine
+
+I am having trouble with being able to use graphql while the auth is activated. Im not able to see the mutations which would allow me to create a user and get the token to access the other data. But I wanted to turn in what I had for now so I can atleast get a few points for attempting this assignment and I will continue to work on it even after this course is finished as I would like to figure out what the problem is.
